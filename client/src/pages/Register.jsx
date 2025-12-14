@@ -1,3 +1,8 @@
 export default function Register() {
-  return <h2>Register</h2>;
+  return (
+    <section>
+      <h1>Register</h1>
+      <p>Registration form will go here.</p>
+    </section>
+  );
 }

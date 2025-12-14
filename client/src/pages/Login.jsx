@@ -1,3 +1,8 @@
 export default function Login() {
-  return <h2>Login</h2>;
+  return (
+    <section>
+      <h1>Login</h1>
+      <p>Login form will go here.</p>
+    </section>
+  );
 }

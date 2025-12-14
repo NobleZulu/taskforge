@@ -1,3 +1,8 @@
 export default function Home() {
-  return <h2>Home</h2>;
+  return (
+    <section>
+      <h1>TaskForge</h1>
+      <p>Organise your tasks and projects.</p>
+    </section>
+  );
 }
